@@ -4,5 +4,13 @@
   "item.endlowwmod.ultimate_sword": "Dimalibur",
   "block.endlowwmod.orange_quartz": "Quartz Orange",
   "block.endlowwmod.spruce_chair": "Chaise en Sapin",
-  "itemGroup.endima": "Endîma"
+  "itemGroup.endima": "Endîma",
+  "block.endlowwmod.purpium_ore": "Minerai de Purpium",
+  "item.endlowwmod.purpium_nugget": "Fragment de Purpium",
+  "block.endlowwmod.redium_ore": "Minerai de Redium",
+  "item.endlowwmod.redium_nugget": "Fragment de Redium",
+  "block.endlowwmod.grinium_ore": "Minerai de Grinium",
+  "item.endlowwmod.grinium_nugget": "Fragment de Grinium",
+  "item.endlowwmod.assassin_dagger": "Dague de l'assassin",
+  "item.endlowwmod.poisonous_dagger": "Dague Empoisonnée"
 }

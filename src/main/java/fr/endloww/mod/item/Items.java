@@ -39,6 +39,13 @@ public class Items {
     ));
 
     public static final RegistryObject<Item> ULTIMATE_SWORD = ITEMS.register("ultimate_sword", () -> new SwordItem(ModItemTier.ULTIMATE, 2, 3F, new Item.Properties().tab(CreativeTabs.ENDIMA)));
+
+    public static final RegistryObject<Item> ASSASSIN_DAGGER= ITEMS.register("assassin_dagger", () -> new SwordItem(ModItemTier.ULTIMATE, 2, 3F, new Item.Properties().tab(CreativeTabs.ENDIMA)));
+    public static final RegistryObject<Item> POISONOUS_DAGGER= ITEMS.register("poisonous_dagger", () -> new SwordItem(ModItemTier.ULTIMATE, 2, 3F, new Item.Properties().tab(CreativeTabs.ENDIMA)));
+    public static final RegistryObject<Item> PURPIUM_NUGGET = ITEMS.register("purpium_nugget", () -> new Item(new Item.Properties().tab(CreativeTabs.ENDIMA)));
+    public static final RegistryObject<Item> REDIUM_NUGGET = ITEMS.register("redium_nugget", () -> new Item(new Item.Properties().tab(CreativeTabs.ENDIMA)));
+    public static final RegistryObject<Item> GRINIUM_NUGGET = ITEMS.register("grinium_nugget", () -> new Item(new Item.Properties().tab(CreativeTabs.ENDIMA)));
+
     public static void register(IEventBus eventBus){
         ITEMS.register(eventBus);
     }

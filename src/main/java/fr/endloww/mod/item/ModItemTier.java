@@ -9,7 +9,8 @@ import java.util.function.Supplier;
 
 public enum ModItemTier implements Tier {
 
-    ULTIMATE(0,3060,16.0F,8.0F,25, () -> {
+
+    ULTIMATE (0,3060,16.0F,8.0F,25, () -> {
         return Ingredient.of(Items.CHERRY_ITEM.get());
     });
     private final int harvestLevel;
@@ -52,4 +53,5 @@ public enum ModItemTier implements Tier {
     public Ingredient getRepairIngredient(){
         return repairMaterial.get();
     }
+
 }
