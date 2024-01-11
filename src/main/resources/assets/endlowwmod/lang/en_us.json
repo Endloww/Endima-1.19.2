@@ -11,6 +11,7 @@
   "item.endlowwmod.redium_nugget": "Fragment de Redium",
   "block.endlowwmod.grinium_ore": "Minerai de Grinium",
   "item.endlowwmod.grinium_nugget": "Fragment de Grinium",
-  "item.endlowwmod.assassin_dagger": "Dague de l'assassin",
-  "item.endlowwmod.poisonous_dagger": "Dague Empoisonnée"
+  "item.endlowwmod.withearth_dagger": "Dague du Withearth",
+  "item.endlowwmod.poisonous_dagger": "Dague Empoisonnée",
+  "item.endlowwmod.withearth_spawn_egg": "Oeuf de Withearth"
 }
